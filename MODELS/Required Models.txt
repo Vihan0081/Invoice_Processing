@@ -5,6 +5,15 @@ Installation for CPU:
 
 python -m pip install paddlepaddle==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
 
+2. Install paddleocr
+
+Install the full functionality of PaddleOCR by running the following command:
+
+python -m pip install "paddleocr[all]"
+
 2. DeepSeek v3 via OpenRouter API
 
-3.  Pinecone Vector Database
+3. Openai/gpt-4o via OpenRouter API
+
+4. Pinecone Vector Database
+
