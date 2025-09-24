@@ -1,0 +1,10 @@
+
+1. Install PaddlePaddle
+   
+Installation for CPU:
+
+python -m pip install paddlepaddle==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+
+2. DeepSeek v3 via OpenRouter API
+
+3.  Pinecone Vector Database
